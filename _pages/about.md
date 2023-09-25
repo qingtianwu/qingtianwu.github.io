@@ -11,11 +11,13 @@ redirect_from:
 
 Personal Introduction
 ======
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I am a soon-to-be doctoral graduate from [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), actively seeking a faculty position at a higher education institution. My research expertise lies in the field of computer vision and intelligent systems. 
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+As I near the completion of my doctoral studies, I am eager to embark on a career in academia where I can contribute my knowledge and skills to both research and teaching in this exciting and rapidly evolving area.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+I am very fortunate to be advised by [Prof. Liming Zhang](https://www.fst.um.edu.mo/people/lmzhang/). I was advised by [Prof. Zhou Yimin](https://people.ucas.ac.cn/~zym) and [Prof. Wu Xinyu](https://people.ucas.ac.cn/~wuxinyu)  from [Shenzhen Institutes of Advanced Technology (SIAT)](https://www.siat.ac.cn/), Chinese Academy of Science (CAS) .
+
+You can find my CV here: [Curriculum Vitae of Wu Qingtian](../assets/CV.pdf).
 
 [Email](mailto:qt.wu@outlook.com) / [Github](https://github.com/qingtianwu) / [CSDN](https://blog.csdn.net/wqthaha?type=blog)
 
