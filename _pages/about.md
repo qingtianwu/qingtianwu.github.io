@@ -15,7 +15,7 @@ I am a soon-to-be doctoral graduate from [Faculty of Science and Technology](htt
 
 As I near the completion of my doctoral studies, I am eager to embark on a career in academia where I can contribute my knowledge and skills to both research and teaching in this exciting and rapidly evolving area.
 
-I am very fortunate to be advised by [Prof. Liming Zhang](https://www.fst.um.edu.mo/people/lmzhang/). I was advised by [Prof. Zhou Yimin](https://people.ucas.ac.cn/~zym) and [Prof. Wu Xinyu](https://people.ucas.ac.cn/~wuxinyu)  from [Shenzhen Institutes of Advanced Technology (SIAT)](https://www.siat.ac.cn/), Chinese Academy of Science (CAS) .
+I am very fortunate to be advised by [Prof. Liming Zhang](https://www.fst.um.edu.mo/people/lmzhang/) from University of Macau. I was advised by [Prof. Zhou Yimin](https://people.ucas.ac.cn/~zym) and [Prof. Wu Xinyu](https://people.ucas.ac.cn/~wuxinyu)  from [Shenzhen Institutes of Advanced Technology (SIAT)](https://www.siat.ac.cn/), Chinese Academy of Science (CAS) .
 
 You can find my CV here: [Curriculum Vitae of Wu Qingtian](../assets/CV.pdf).
 
