@@ -32,24 +32,23 @@ Publications
 ------
 * [Parallel Self-Attention and Spatial-Attention Fusion for Human Pose Estimation and Running Movement Recognition](https://ieeexplore.ieee.org/abstract/document/10124029). Qingtian Wu, Yu Zhang, and Liming Zhang. IEEE Transactions on Cognitive and Developmental Systems (JCR Q2), 2023. (First Author)
 
-* [A Local–Global Estimator Based on Large Kernel CNN and Transformer for Human Pose Estimation and Running Pose Measurement](). Qingtian Wu, Yongfei Wu, Yu Zhang, and Liming Zhang. IEEE Transactions on Instrumentation and Measurement (JCR Q1), 2022. (First Author) 
+* [A Local–Global Estimator Based on Large Kernel CNN and Transformer for Human Pose Estimation and Running Pose Measurement](https://ieeexplore.ieee.org/document/9863852). Qingtian Wu, Yongfei Wu, Yu Zhang, and Liming Zhang. IEEE Transactions on Instrumentation and Measurement (JCR Q1), 2022. (First Author) 
 
 * [Level set guided region prototype rectification network for retinal vessel segmentation](https://www.sciencedirect.com/science/article/pii/S1746809423008613).
 Yifei Liu, Qingtian Wu, Xueyu Liu, Junyu Lu, Zhenhuan Xu, Yongfei Wu, Shu Feng, Jue Wang, Yujiu Yang. Biomedical Signal Processing and Control ( JCR Q2), 2023. 
 
-* Real‐time running detection system for UAV imagery based on optical flow and deep convolutional networks.
+* [Real‐time running detection system for UAV imagery based on optical flow and deep convolutional networks](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-its.2019.0455).
 Qingtian Wu, Yimin Zhou, Xinyu Wu, Guoyuan Liang, Yongsheng Ou, Tianfu Sun. IET Intelligent Transport Systems (JCR Q3), 2020. (First Author) 
 
-* The noninvasive blood pressure measurement based on facial images processing.
-* Yimin Zhou, Haiyang Ni, Qi Zhang, Qingtian Wu. IEEE Sensors Journal (JCR Q1), 2019. 
+* [The noninvasive blood pressure measurement based on facial images processing](https://ieeexplore.ieee.org/abstract/document/8779745). Yimin Zhou, Haiyang Ni, Qi Zhang, Qingtian Wu. IEEE Sensors Journal (JCR Q1), 2019. 
 
-* Webcam-based, non-contact, real-time measurement for the physiological parameters of drivers.
+* [Webcam-based, non-contact, real-time measurement for the physiological parameters of drivers](https://www.sciencedirect.com/science/article/pii/S0263224117300076).
 Qi Zhang#, Qingtian Wu#, Yimin Zhou, Xinyu Wu, Yongsheng Ou, Huazhang Zhou. measurement (JCR Q1), 2017. (Equal First Author)
 
 PREPRINT PAPERS
 ------
 
-* A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose. 
+* [A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose](https://arxiv.org/abs/2309.11773). 
 Qingtian Wu, Xiaoming Wang, Lei Dai, Fei Richard Yu and Liming Zhang. IEEE Internet of Things Journal, Under Review. (First Author).
 
 * YOLOLandmark: an End-to-End Deep Network for Real-time Face and Its Dense Facial Landmark Detection. 
