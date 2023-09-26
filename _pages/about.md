@@ -11,7 +11,11 @@ redirect_from:
 
 Personal Introduction
 ======
-I am a soon-to-be doctoral graduate from [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), actively seeking a faculty/researching position at a university or higher education institution. My research expertise lies in the field of computer vision and intelligent systems. 
+I am a soon-to-be doctoral graduate from [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), actively seeking a faculty position at a university or higher education institution. My research expertise lies in the fields:
+* Computer Vision: object/anomaly/keypoint detection, industrial inspection.
+* Intelligent Systems: human-machine interaction, avatar technologies, and intelligent robotics.
+
+Furthermore, I actively keep abreast of the latest developments in AIGC technologies, with a particular interest in LLM, multimodal, and diffusion models.
 
 As I near the completion of my doctoral studies, I am eager to embark on a career in academia where I can contribute my knowledge and skills to both research and teaching in this exciting and rapidly evolving area.
 
@@ -82,6 +86,7 @@ Teaching Assistant, Faculty of Science and Technology, University of Macau
   
 Awards
 ------
+* 2020-2023年，澳门大学博士助学金
 * 2019年，第九届吴文俊人工智能科技进步三等奖(第四完成人)
 * 2014年，深圳大学校级优秀毕业生
 * 2010-2014年，国家奖学金，深圳大学学业特等奖学金，国家励志奖学金，永亨银行奖学金
