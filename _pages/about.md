@@ -11,7 +11,7 @@ redirect_from:
 
 Personal Introduction
 ======
-I am a soon-to-be doctoral graduate from [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), actively seeking a faculty position at a higher education institution. My research expertise lies in the field of computer vision and intelligent systems. 
+I am a soon-to-be doctoral graduate from [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), actively seeking a faculty/researching position at a university or higher education institution. My research expertise lies in the field of computer vision and intelligent systems. 
 
 As I near the completion of my doctoral studies, I am eager to embark on a career in academia where I can contribute my knowledge and skills to both research and teaching in this exciting and rapidly evolving area.
 
