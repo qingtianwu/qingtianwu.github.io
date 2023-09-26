@@ -62,7 +62,7 @@ Qingtian Wu, Nannan Li, Liming Zhang and Fei Richard Yu. IEEEE Transactions on I
 Nannan Li, Kan Huang, Qingtian Wu, Yang Zhao and Wenmin Wang. IEEE Transactions on Multimedia, Under Review.
 
 
-Working EXPERIENCES
+Working Experience
 ------
 * Research Assistant, Biorobotics Lab, National University of Singapore. (From 09/2019 to 03/2020)
 <!-- Developing visual interaction system of tracking moving targets and engaging with users. -->
@@ -72,7 +72,7 @@ Working EXPERIENCES
 
 <!-- Software development, and NLP algorithm research -->
 
-TEACHING EXPERIENCE
+Teaching Experience
 ------
 Teaching Assistant, Faculty of Science and Technology, University of Macau
 * Multimedia computing 2020-2021, 2021-2022
