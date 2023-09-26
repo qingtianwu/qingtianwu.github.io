@@ -15,7 +15,7 @@ I am a soon-to-be doctoral graduate from [Faculty of Science and Technology](htt
 
 As I near the completion of my doctoral studies, I am eager to embark on a career in academia where I can contribute my knowledge and skills to both research and teaching in this exciting and rapidly evolving area.
 
-I am very fortunate to be advised by [Prof. Liming Zhang](https://www.fst.um.edu.mo/people/lmzhang/) from University of Macau. I was advised by [Prof. Zhou Yimin](https://people.ucas.ac.cn/~zym) and [Prof. Wu Xinyu](https://people.ucas.ac.cn/~wuxinyu)  from [Shenzhen Institutes of Advanced Technology (SIAT)](https://www.siat.ac.cn/), Chinese Academy of Science (CAS) .
+I am very fortunate to be supervised by [Prof. Liming Zhang](https://www.fst.um.edu.mo/people/lmzhang/) from University of Macau. I was supervised by [Prof. Zhou Yimin](https://people.ucas.ac.cn/~zym) and [Prof. Wu Xinyu](https://people.ucas.ac.cn/~wuxinyu)  from [Shenzhen Institutes of Advanced Technology (SIAT)](https://www.siat.ac.cn/), Chinese Academy of Science (CAS) .
 
 You can find my CV here: [Curriculum Vitae of Wu Qingtian](../files/resume_wqt.pdf).
 
@@ -30,37 +30,35 @@ Education
 
 Publications
 ------
-Parallel Self-Attention and Spatial-Attention Fusion for Human Pose Estimation and Running Movement Recognition.
-Qingtian Wu, Yu Zhang, and Liming Zhang. IEEE Transactions on Cognitive and Developmental Systems (JCR Q2), 2023. (First Author)
+* Parallel Self-Attention and Spatial-Attention Fusion for Human Pose Estimation and Running Movement Recognition. Qingtian Wu, Yu Zhang, and Liming Zhang. IEEE Transactions on Cognitive and Developmental Systems (JCR Q2), 2023. (First Author)
 
-A Local–Global Estimator Based on Large Kernel CNN and Transformer for Human Pose Estimation and Running Pose Measurement.
-Qingtian Wu, Yongfei Wu, Yu Zhang, and Liming Zhang. IEEE Transactions on Instrumentation and Measurement (JCR Q1), 2022. (First Author) 
+* A Local–Global Estimator Based on Large Kernel CNN and Transformer for Human Pose Estimation and Running Pose Measurement. Qingtian Wu, Yongfei Wu, Yu Zhang, and Liming Zhang. IEEE Transactions on Instrumentation and Measurement (JCR Q1), 2022. (First Author) 
 
-Level set guided region prototype rectification network for retinal vessel segmentation.
+* Level set guided region prototype rectification network for retinal vessel segmentation.
 Yifei Liu, Qingtian Wu, Xueyu Liu, Junyu Lu, Zhenhuan Xu, Yongfei Wu, Shu Feng, Jue Wang, Yujiu Yang. Biomedical Signal Processing and Control ( JCR Q2), 2023. 
 
-Real‐time running detection system for UAV imagery based on optical flow and deep convolutional networks.
+* Real‐time running detection system for UAV imagery based on optical flow and deep convolutional networks.
 Qingtian Wu, Yimin Zhou, Xinyu Wu, Guoyuan Liang, Yongsheng Ou, Tianfu Sun. IET Intelligent Transport Systems (JCR Q3), 2020. (First Author) 
 
-The noninvasive blood pressure measurement based on facial images processing.
-Yimin Zhou, Haiyang Ni, Qi Zhang, Qingtian Wu. IEEE Sensors Journal (JCR Q1), 2019. 
+* The noninvasive blood pressure measurement based on facial images processing.
+* Yimin Zhou, Haiyang Ni, Qi Zhang, Qingtian Wu. IEEE Sensors Journal (JCR Q1), 2019. 
 
-Webcam-based, non-contact, real-time measurement for the physiological parameters of drivers.
+* Webcam-based, non-contact, real-time measurement for the physiological parameters of drivers.
 Qi Zhang#, Qingtian Wu#, Yimin Zhou, Xinyu Wu, Yongsheng Ou, Huazhang Zhou. measurement (JCR Q1), 2017. (Equal First Author)
 
 PREPRINT PAPERS
 ------
 
-A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose. 
+* A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose. 
 Qingtian Wu, Xiaoming Wang, Lei Dai, Fei Richard Yu and Liming Zhang. IEEE Internet of Things Journal, Under Review. (First Author).
 
-YOLOLandmark: an End-to-End Deep Network for Real-time Face and Its Dense Facial Landmark Detection. 
+* YOLOLandmark: an End-to-End Deep Network for Real-time Face and Its Dense Facial Landmark Detection. 
 Qingtian Wu, Hanzi Wang, Jiajian Zhang, and Liming Zhang. IEEE Transactions on Industrial Informatics, Under Review. (First Author).
 
-Driver Drowsiness Detection Based on Joint Human Face and Facial Landmark Localization with Cheap Operations.
+* Driver Drowsiness Detection Based on Joint Human Face and Facial Landmark Localization with Cheap Operations.
 Qingtian Wu, Nannan Li, Liming Zhang and Fei Richard Yu. IEEEE Transactions on Intelligent Transportation Systems, Under Review. (First Author).
 
-Contrastive Prototype Learning with Pseudo Labeling for Semi-supervised Action Recognition.
+* Contrastive Prototype Learning with Pseudo Labeling for Semi-supervised Action Recognition.
 Nannan Li, Kan Huang, Qingtian Wu, Yang Zhao and Wenmin Wang. IEEE Transactions on Multimedia, Under Review.
 
 
