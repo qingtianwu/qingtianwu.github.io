@@ -21,7 +21,7 @@ As I near the completion of my doctoral studies, I am eager to embark on a caree
 
 I am very fortunate to be supervised by [Prof. Liming Zhang](https://www.fst.um.edu.mo/people/lmzhang/) from University of Macau. I was supervised by [Prof. Zhou Yimin](https://people.ucas.ac.cn/~zym) and [Prof. Wu Xinyu](https://people.ucas.ac.cn/~wuxinyu)  from [Shenzhen Institutes of Advanced Technology (SIAT)](https://www.siat.ac.cn/), Chinese Academy of Science (CAS) .
 
-You can find my CV here: [Curriculum Vitae of Wu Qingtian](../resume_wqt.pdf).
+You can find my CV here: [Curriculum Vitae of Wu Qingtian](../resume_wqt1.pdf).
 
 [Email](mailto:qt.wu@outlook.com) / [Github](https://github.com/qingtianwu) / [CSDN](https://blog.csdn.net/wqthaha?type=blog)
 
