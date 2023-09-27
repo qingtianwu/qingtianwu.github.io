@@ -19,7 +19,7 @@ Furthermore, I actively keep abreast of the latest developments in AIGC technolo
 
 As I near the completion of my doctoral studies, I am eager to embark on a career in academia where I can contribute my knowledge and skills to both research and teaching in this exciting and rapidly evolving area.
 
-I am very fortunate to be supervised by [Prof. Liming Zhang](https://www.fst.um.edu.mo/people/lmzhang/) from University of Macau. I was supervised by [Prof. Zhou Yimin](https://people.ucas.ac.cn/~zym) and [Prof. Wu Xinyu](https://people.ucas.ac.cn/~wuxinyu)  from [Shenzhen Institutes of Advanced Technology (SIAT)](https://www.siat.ac.cn/), Chinese Academy of Science (CAS). I also have an internship at Guangming Laboratory,  supervised by [Prof. Fei Richard Yu](https://csse.szu.edu.cn/pages/user/index?id=1199) 
+I am very fortunate to be supervised by [Prof. Liming Zhang](https://www.fst.um.edu.mo/people/lmzhang/) from University of Macau. I was supervised by [Prof. Zhou Yimin](https://people.ucas.ac.cn/~zym) and [Prof. Wu Xinyu](https://people.ucas.ac.cn/~wuxinyu)  from [Shenzhen Institutes of Advanced Technology (SIAT)](https://www.siat.ac.cn/), Chinese Academy of Science (CAS). I also have an internship at Guangming Laboratory,  supervised by [Prof. Fei Richard Yu](https://csse.szu.edu.cn/pages/user/index?id=1199).
 
 You can find my CV here: [Curriculum Vitae of Wu Qingtian](../files/resume_wqt2.pdf).
 
@@ -53,7 +53,7 @@ Preprint Papers
 ------
 
 * [A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose](https://arxiv.org/abs/2309.11773). 
-Qingtian Wu, Xiaoming Wang, Lei Dai, Fei Richard Yu and Liming Zhang. IEEE Internet of Things Journal, Under Review. (First Author).
+Qingtian Wu, Xiaoming Wang, Lei Dai, Fei Richard Yu and Liming Zhang. ArXiv. (First Author).
 
 * YOLOLandmark: an End-to-End Deep Network for Real-time Face and Its Dense Facial Landmark Detection. 
 Qingtian Wu, Hanzi Wang, Jiajian Zhang, and Liming Zhang. IEEE Transactions on Industrial Informatics, Under Review. (First Author).
@@ -86,17 +86,17 @@ Teaching Assistant, Faculty of Science and Technology, University of Macau
 
 Research Experiences
 ------
-* Academic Journal Reviewer
-Served as a reviewer for several journals, including IEEE Transactions on Instrumentation Measurement (IEEE TIM),
+Academic Journal Reviewer
+* Served as a reviewer for several journals, including IEEE Transactions on Instrumentation Measurement (IEEE TIM),
 Journal of Advanced Transportation, The Visual Computer, and Scientific Reports
 
-* Academic Conference Volunteer
-IJCAI2022-China, ACCV2022 and IJCAI2023
+Academic Conference Volunteer
+* IJCAI2022-China, ACCV2022 and IJCAI2023
 
-* Research Project
-国家自然科学基金-面上项目,“基于多载体协同跟随的多视角三维场景下人群异常事件检测方法研究”, 2015
+Research Project
+* 国家自然科学基金-面上项目,“基于多载体协同跟随的多视角三维场景下人群异常事件检测方法研究”, 2015
 年 6 月至 2016 年 5月,主要参与者
-深圳科创委-基础研究(学科布局),“随机刺激信号的人工神经网络自学习系统”，2018 年 7 月至 2019 年 8 月,
+* 深圳科创委-基础研究(学科布局),“随机刺激信号的人工神经网络自学习系统”，2018 年 7 月至 2019 年 8 月,
 主要参与者
 
 Awards
