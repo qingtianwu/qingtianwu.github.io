@@ -34,9 +34,9 @@ Education
 
 Publications
 ------
-* [Parallel Self-Attention and Spatial-Attention Fusion for Human Pose Estimation and Running Movement Recognition](https://ieeexplore.ieee.org/abstract/document/10124029). Qingtian Wu, Yu Zhang, and Liming Zhang. IEEE Transactions on Cognitive and Developmental Systems (JCR Q2), 2023. (First Author)
+* \textbf{Qingtian Wu}, Yu Zhang, and Liming Zhang. [Parallel Self-Attention and Spatial-Attention Fusion for Human Pose Estimation and Running Movement Recognition](https://ieeexplore.ieee.org/abstract/document/10124029). IEEE Transactions on Cognitive and Developmental Systems (JCR Q2), 2023. (First Author)
 
-* [A Local–Global Estimator Based on Large Kernel CNN and Transformer for Human Pose Estimation and Running Pose Measurement](https://ieeexplore.ieee.org/document/9863852). Qingtian Wu, Yongfei Wu, Yu Zhang, and Liming Zhang. IEEE Transactions on Instrumentation and Measurement (JCR Q1), 2022. (First Author) 
+* \textbf{Qingtian Wu}, Yongfei Wu, Yu Zhang, and Liming Zhang. [A Local–Global Estimator Based on Large Kernel CNN and Transformer for Human Pose Estimation and Running Pose Measurement](https://ieeexplore.ieee.org/document/9863852). IEEE Transactions on Instrumentation and Measurement (JCR Q1), 2022. (First Author) 
 
 * [Level set guided region prototype rectification network for retinal vessel segmentation](https://www.sciencedirect.com/science/article/pii/S1746809423008613).
 Yifei Liu, Qingtian Wu, Xueyu Liu, Junyu Lu, Zhenhuan Xu, Yongfei Wu, Shu Feng, Jue Wang, Yujiu Yang. Biomedical Signal Processing and Control ( JCR Q2), 2023. 
