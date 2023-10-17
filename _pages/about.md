@@ -34,35 +34,29 @@ Education
 
 Publications
 ------
-* \textbf{Qingtian Wu}, Yu Zhang, and Liming Zhang. [Parallel Self-Attention and Spatial-Attention Fusion for Human Pose Estimation and Running Movement Recognition](https://ieeexplore.ieee.org/abstract/document/10124029). IEEE Transactions on Cognitive and Developmental Systems (JCR Q2), 2023. (First Author)
+* **Qingtian Wu**, Yu Zhang, and Liming Zhang. [Parallel Self-Attention and Spatial-Attention Fusion for Human Pose Estimation and Running Movement Recognition](https://ieeexplore.ieee.org/abstract/document/10124029). IEEE Transactions on Cognitive and Developmental Systems (JCR Q2), 2023. (First Author)
 
-* \textbf{Qingtian Wu}, Yongfei Wu, Yu Zhang, and Liming Zhang. [A Local–Global Estimator Based on Large Kernel CNN and Transformer for Human Pose Estimation and Running Pose Measurement](https://ieeexplore.ieee.org/document/9863852). IEEE Transactions on Instrumentation and Measurement (JCR Q1), 2022. (First Author) 
+* **Qingtian Wu**, Yongfei Wu, Yu Zhang, and Liming Zhang. [A Local–Global Estimator Based on Large Kernel CNN and Transformer for Human Pose Estimation and Running Pose Measurement](https://ieeexplore.ieee.org/document/9863852). IEEE Transactions on Instrumentation and Measurement (JCR Q1), 2022. (First Author) 
 
-* [Level set guided region prototype rectification network for retinal vessel segmentation](https://www.sciencedirect.com/science/article/pii/S1746809423008613).
-Yifei Liu, Qingtian Wu, Xueyu Liu, Junyu Lu, Zhenhuan Xu, Yongfei Wu, Shu Feng, Jue Wang, Yujiu Yang. Biomedical Signal Processing and Control ( JCR Q2), 2023. 
+* Yifei Liu, **Qingtian Wu**, Xueyu Liu, Junyu Lu, Zhenhuan Xu, Yongfei Wu, Shu Feng, Jue Wang, Yujiu Yang. [Level set guided region prototype rectification network for retinal vessel segmentation](https://www.sciencedirect.com/science/article/pii/S1746809423008613). Biomedical Signal Processing and Control ( JCR Q2), 2023. 
 
-* [Real‐time running detection system for UAV imagery based on optical flow and deep convolutional networks](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-its.2019.0455).
-Qingtian Wu, Yimin Zhou, Xinyu Wu, Guoyuan Liang, Yongsheng Ou, Tianfu Sun. IET Intelligent Transport Systems (JCR Q3), 2020. (First Author) 
+* **Qingtian Wu**, Yimin Zhou, Xinyu Wu, Guoyuan Liang, Yongsheng Ou, Tianfu Sun. [Real‐time running detection system for UAV imagery based on optical flow and deep convolutional networks](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-its.2019.0455). IET Intelligent Transport Systems (JCR Q3), 2020. (First Author) 
 
-* [The noninvasive blood pressure measurement based on facial images processing](https://ieeexplore.ieee.org/abstract/document/8779745). Yimin Zhou, Haiyang Ni, Qi Zhang, Qingtian Wu. IEEE Sensors Journal (JCR Q1), 2019. 
+* Yimin Zhou, Haiyang Ni, Qi Zhang, **Qingtian Wu**.[The noninvasive blood pressure measurement based on facial images processing](https://ieeexplore.ieee.org/abstract/document/8779745). IEEE Sensors Journal (JCR Q1), 2019. 
 
-* [Webcam-based, non-contact, real-time measurement for the physiological parameters of drivers](https://www.sciencedirect.com/science/article/pii/S0263224117300076).
-Qi Zhang#, Qingtian Wu#, Yimin Zhou, Xinyu Wu, Yongsheng Ou, Huazhang Zhou. measurement (JCR Q1), 2017. (Equal First Author)
+* Qi Zhang#, **Qingtian Wu#**, Yimin Zhou, Xinyu Wu, Yongsheng Ou, Huazhang Zhou.[Webcam-based, non-contact, real-time measurement for the physiological parameters of drivers](https://www.sciencedirect.com/science/article/pii/S0263224117300076). Measurement (JCR Q1), 2017. (Equal First Author)
 
 Preprint Papers
 ------
 
-* [A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose](https://arxiv.org/abs/2309.11773). 
-Qingtian Wu, Xiaoming Wang, Lei Dai, Fei Richard Yu and Liming Zhang. ArXiv. (First Author).
+* **Qingtian Wu**, Xiaoming Wang, Lei Dai, Fei Richard Yu and Liming Zhang.[A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose](https://arxiv.org/abs/2309.11773). IEEE Internet of Things Journal, Under Review. (First Author).
 
-* YOLOLandmark: an End-to-End Deep Network for Real-time Face and Its Dense Facial Landmark Detection. 
-Qingtian Wu, Hanzi Wang, Jiajian Zhang, and Liming Zhang. IEEE Transactions on Industrial Informatics, Under Review. (First Author).
+* **Qingtian Wu**, Hanzi Wang, Jiajian Zhang, and Liming Zhang.YOLOLandmark: an End-to-End Deep Network for Real-time Face and Its Dense Facial Landmark Detection. IEEE Transactions on Industrial Informatics, In Round 2 Review. (First Author).
 
-* Driver Drowsiness Detection Based on Joint Human Face and Facial Landmark Localization with Cheap Operations.
-Qingtian Wu, Nannan Li, Liming Zhang and Fei Richard Yu. IEEEE Transactions on Intelligent Transportation Systems, Under Review. (First Author).
+* **Qingtian Wu**, Nannan Li, Liming Zhang and Fei Richard Yu.Driver Drowsiness Detection Based on Joint Human Face and Facial Landmark Localization with Cheap Operations. IEEEE Transactions on Intelligent Transportation Systems, In Round 2 Review. (First Author).
 
-* Contrastive Prototype Learning with Pseudo Labeling for Semi-supervised Action Recognition.
-Nannan Li, Kan Huang, Qingtian Wu, Yang Zhao and Wenmin Wang. IEEE Transactions on Multimedia, Under Review.
+* Nannan Li, Kan Huang, **Qingtian Wu**, Yang Zhao and Wenmin Wang. Contrastive Prototype Learning with Pseudo Labeling for Semi-supervised Action Recognition.
+ IEEE Transactions on Multimedia, Under Review.
 
 
 Work  Experiences
@@ -95,9 +89,9 @@ Academic Conference Volunteer
 
 Research Project
 * 国家自然科学基金-面上项目,“基于多载体协同跟随的多视角三维场景下人群异常事件检测方法研究”, 2015
-年 6 月至 2016 年 5月,主要参与者
+年 6 月至 2016 年 5月,参与
 * 深圳科创委-基础研究(学科布局),“随机刺激信号的人工神经网络自学习系统”，2018 年 7 月至 2019 年 8 月,
-主要参与者
+参与
 
 Awards
 ------
