@@ -5,11 +5,16 @@ title: "Projects"
 author_profile: true
 
 ---
+## Real-Time Multitask Learning System for Joint  Detection of Face, Facial Landmark  and Head Pose
+The rapid advancement of deep learning techniques has revolutionized the processing methods of various computer vision tasks, such as facial analysis, includ-
+ing face detection, facial landmark detection (FLD), and head pose estimation (HPE) methods. This project shows the integration of these tasks, particularly when addressing the complexities posed by large-angle face poses. The primary contribution is the proposal of a real-time multitask detection system capable of simultaneously performing joint detection of faces, facial landmarks, and head poses. This system builds upon the widely adopted YOLOv8 detection framework.
 
-## An intelligent human-machine interaction system
+
+
+## [Intelligent human-machine interaction system](https://www.bilibili.com/video/BV1iy4y1w7hr/?vd_source=20581e2ee8c68cd59de3b61d053ce9d3)
 
 This system combines voice recognition as an entry point to perform various operations, including opening applications, controlling devices, and providing information. The development of this system requires in-depth expertise in voice recognition, natural language processing, internet connectivity, and human-machine interaction technologies. Additionally, it's important to ensure the system's scalability for easy integration of more functionalities and applications in the future. The system should also be adaptable to accommodate different user needs and allow for personalized settings and configurations. Here's a video I want to share:
-<iframe width="560" height="315" src="interactionRobot.video" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.bilibili.com/video/BV1iy4y1w7hr/?vd_source=20581e2ee8c68cd59de3b61d053ce9d3" frameborder="0" allowfullscreen></iframe>
 
 
 
