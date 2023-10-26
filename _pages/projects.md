@@ -11,10 +11,10 @@ ing face detection, facial landmark detection (FLD), and head pose estimation (H
 
 
 
-## [Intelligent human-machine interaction system](https://www.bilibili.com/video/BV1iy4y1w7hr/?vd_source=20581e2ee8c68cd59de3b61d053ce9d3)
+## [Intelligent human-machine interaction system](https://www.bilibili.com/video/BV1iy4y1w7hr?t=29.2)
 
 This system combines voice recognition as an entry point to perform various operations, including opening applications, controlling devices, and providing information. The development of this system requires in-depth expertise in voice recognition, natural language processing, internet connectivity, and human-machine interaction technologies. Additionally, it's important to ensure the system's scalability for easy integration of more functionalities and applications in the future. The system should also be adaptable to accommodate different user needs and allow for personalized settings and configurations. Here's a video I want to share:
-<iframe width="560" height="315" src="https://www.bilibili.com/video/BV1iy4y1w7hr/?vd_source=20581e2ee8c68cd59de3b61d053ce9d3" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.bilibili.com/video/BV1iy4y1w7hr?t=29.2" frameborder="0" allowfullscreen></iframe>
 
 
 
