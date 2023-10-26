@@ -11,7 +11,7 @@ ing face detection, facial landmark detection (FLD), and head pose estimation (H
 
 ![GIF](https://github.com/qingtianwu/qingtianwu.github.io/blob/master/_data/headpose.gif)
 
-<iframe src="//player.bilibili.com/player.html?aid=790163611&bvid=BV1iy4y1w7hr&cid=1312218152&p=1" width="560" height="480"   scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=790163611&bvid=BV1iy4y1w7hr&cid=1312218152&p=1" width="560" height="400"   scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
  
 <img src="https://github.com/qingtianwu/qingtianwu.github.io/blob/master/_data/headpose.gif"/>
 
@@ -20,7 +20,7 @@ ing face detection, facial landmark detection (FLD), and head pose estimation (H
 
 This system combines voice recognition as an entry point to perform various operations, including opening applications, controlling devices, and providing information. The development of this system requires in-depth expertise in voice recognition, natural language processing, internet connectivity, and human-machine interaction technologies. Additionally, it's important to ensure the system's scalability for easy integration of more functionalities and applications in the future. The system should also be adaptable to accommodate different user needs and allow for personalized settings and configurations. Here's a video I want to share:
 
-<iframe src="//player.bilibili.com/player.html?aid=790163611&bvid=BV1iy4y1w7hr&cid=1312218152&p=1" width="560px" height="480" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=790163611&bvid=BV1iy4y1w7hr&cid=1312218152&p=1" width="560px" height="400" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
  
