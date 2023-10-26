@@ -20,13 +20,13 @@ redirect_from:
 
 端到端的人脸关键点检测
 
-<iframe height=498 width=510 src="../_data/WIN_20230324_22_12_35_Pro.mp4">
+<iframe height=498 width=510 src="../_data/WIN_20230324_22_12_35_Pro.mp4"></iframe>
 
 ## YOLODDD: end-to-end face and DDD
 
 端到端的司机疲劳检测
 
-<iframe height=498 width=510 src="../_data/WIN_20230324_22_12_35_Pro.mp4">
+<iframe height=498 width=510 src="../_data/WIN_20230324_22_12_35_Pro.mp4"></iframe>
 
 
 
