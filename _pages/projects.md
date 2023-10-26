@@ -8,13 +8,7 @@ author_profile: true
 
 ## An intelligent human-machine interaction system
 
-This system combines voice recognition as an entry point to perform various operations, including opening applications, controlling devices, and providing information. The following are some key components and functionalities to achieve this goal:
-* Voice Recognition Module: 
-* Natural Language Processing (NLP) Module:
-* Command Processor
-* User Interface
-The development of this system requires in-depth expertise in voice recognition, natural language processing, internet connectivity, and human-machine interaction technologies. Additionally, it's important to ensure the system's scalability for easy integration of more functionalities and applications in the future. The system should also be adaptable to accommodate different user needs and allow for personalized settings and configurations. Here's a video I want to share:
-
+This system combines voice recognition as an entry point to perform various operations, including opening applications, controlling devices, and providing information. The development of this system requires in-depth expertise in voice recognition, natural language processing, internet connectivity, and human-machine interaction technologies. Additionally, it's important to ensure the system's scalability for easy integration of more functionalities and applications in the future. The system should also be adaptable to accommodate different user needs and allow for personalized settings and configurations. Here's a video I want to share:
 <iframe width="560" height="315" src="interactionRobot.video" frameborder="0" allowfullscreen></iframe>
 
 
