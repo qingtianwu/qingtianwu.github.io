@@ -101,7 +101,7 @@ src:要播放视频的url
 第二种：
 
 ```HTML
-<video src="https://movie.cy798.cn/Blue.Planet.S02.2017.BluRay.1080p.DTS-HD.MA5.1.2Audio.x264-CHD/Blue.Planet.S02E01.One.Ocean.2017.BluRay.1080p.DTS-HD.MA5.1.2Audio.x264-CHD.mkv" controls="controls" width:100% height:auto></video>
+<video src="_data/WIN_20230324_22_12_35_Pro.mp4" controls="controls" width:100% height:auto></video>
 ```
 
-<video src="https://movie.cy798.cn/Blue.Planet.S02.2017.BluRay.1080p.DTS-HD.MA5.1.2Audio.x264-CHD/Blue.Planet.S02E01.One.Ocean.2017.BluRay.1080p.DTS-HD.MA5.1.2Audio.x264-CHD.mkv" controls="controls" width="720" height="405"></video>
+<video src="_data/WIN_20230324_22_12_35_Pro.mp4" controls="controls" width="720" height="405"></video>
