@@ -3,17 +3,21 @@ layout: archive
 permalink: /projects/
 title: "Projects"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
+
 ---
 
-## 一个智能人机交互系统
+## An intelligent human-machine interaction system
 
-该智能人机交互系统可实现语音指令的控制，包括对机器人的控制等．
+This system combines voice recognition as an entry point to perform various operations, including opening applications, controlling devices, and providing information. The following are some key components and functionalities to achieve this goal:
+* Voice Recognition Module: 
+* Natural Language Processing (NLP) Module:
+* Command Processor
+* User Interface
+The development of this system requires in-depth expertise in voice recognition, natural language processing, internet connectivity, and human-machine interaction technologies. Additionally, it's important to ensure the system's scalability for easy integration of more functionalities and applications in the future. The system should also be adaptable to accommodate different user needs and allow for personalized settings and configurations. Here's a video I want to share:
+
+<iframe width="560" height="315" src="interactionRobot.video" frameborder="0" allowfullscreen></iframe>
 
 
-<video src="../_data/WIN_20230324_22_12_35_Pro.mp4" controls="controls" width="500" height="300"></video>
 
  
 ## YOLOLandmark: end-to-end face and FLD
