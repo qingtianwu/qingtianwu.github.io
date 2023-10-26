@@ -8,22 +8,17 @@ author_profile: true
 ## Real-Time Multitask Learning System for Joint  Detection of Face, Facial Landmark  and Head Pose
 The rapid advancement of deep learning techniques has revolutionized the processing methods of various computer vision tasks, such as facial analysis, includ-
 ing face detection, facial landmark detection (FLD), and head pose estimation (HPE) methods. This project shows the integration of these tasks, particularly when addressing the complexities posed by large-angle face poses. The primary contribution is the proposal of a real-time multitask detection system capable of simultaneously performing joint detection of faces, facial landmarks, and head poses. This system builds upon the widely adopted YOLOv8 detection framework.
+
+<iframe src="//player.bilibili.com/player.html?aid=790163611&bvid=BV1iy4y1w7hr&cid=1312218152&p=1" width="560"   scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 ![Our approach (Right) not only high in speed but robustness](../_data/headpose.gif "headpose")
-<img src="../_data/headpose.gif" width="60%" alt="AltText" />
-
-<iframe src="../_data/headpose.gif" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-```HTML
-<img src="../_data/headpose.gif" alt="002_out_WFLW_model" width="512px">
-```
-
+ 
 
 ## Intelligent human-machine interaction system
 
 This system combines voice recognition as an entry point to perform various operations, including opening applications, controlling devices, and providing information. The development of this system requires in-depth expertise in voice recognition, natural language processing, internet connectivity, and human-machine interaction technologies. Additionally, it's important to ensure the system's scalability for easy integration of more functionalities and applications in the future. The system should also be adaptable to accommodate different user needs and allow for personalized settings and configurations. Here's a video I want to share:
-width="560" height="315" 
 
-<iframe src="//player.bilibili.com/player.html?aid=790163611&bvid=BV1iy4y1w7hr&cid=1312218152&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=790163611&bvid=BV1iy4y1w7hr&cid=1312218152&p=1" width="560px"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
  
