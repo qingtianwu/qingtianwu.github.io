@@ -9,7 +9,7 @@ author_profile: true
 The rapid advancement of deep learning techniques has revolutionized the processing methods of various computer vision tasks, such as facial analysis, includ-
 ing face detection, facial landmark detection (FLD), and head pose estimation (HPE) methods. This project shows the integration of these tasks, particularly when addressing the complexities posed by large-angle face poses. The primary contribution is the proposal of a real-time multitask detection system capable of simultaneously performing joint detection of faces, facial landmarks, and head poses. This system builds upon the widely adopted YOLOv8 detection framework.
 ![Our approach (Right) not only high in speed but robustness](../_data/headpose.gif "headpose")
-
+<img src="../_data/headpose.gif" width="60%" alt="AltText" />
 
 
 ## Intelligent human-machine interaction system
