@@ -12,6 +12,19 @@ redirect_from:
 
 该智能人机交互系统可实现语音指令的控制，包括对机器人的控制等．
 
+```HTML
+<video src="../_data/WIN_20230324_22_12_35_Pro.mp4" controls="controls" width:100% height:auto></video>
+```
+
+new videos
+
+```HTML
+<video width="320" height="240" controls>
+    <source src="../_data/WIN_20230324_22_12_35_Pro.mp4" type="video/mp4">
+</video>
+```
+<!-- 
+
 <iframe height=498 width=510 src="../_data/WIN_20230324_22_12_35_Pro.mp4">
 
  
@@ -103,4 +116,4 @@ src:要播放视频的url
 <video src="../_data/WIN_20230324_22_12_35_Pro.mp4" controls="controls" width:100% height:auto></video>
 ```
 
-<video src="../_data/WIN_20230324_22_12_35_Pro.mp4" controls="controls" width="720" height="405"></video>
+<video src="../_data/WIN_20230324_22_12_35_Pro.mp4" controls="controls" width="720" height="405"></video> -->
