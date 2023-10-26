@@ -13,6 +13,8 @@ ing face detection, facial landmark detection (FLD), and head pose estimation (H
 
 <iframe src="//player.bilibili.com/player.html?aid=790163611&bvid=BV1iy4y1w7hr&cid=1312218152&p=1" width="560" height="480"   scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
  
+<img src="https://github.com/qingtianwu/qingtianwu.github.io/blob/master/_data/headpose.gif"/>
+
 
 ## Intelligent human-machine interaction system
 
