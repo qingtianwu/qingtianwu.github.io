@@ -12,35 +12,34 @@ redirect_from:
 
 该智能人机交互系统可实现语音指令的控制，包括对机器人的控制等．
 
-<iframe height=498 width=510 src="_data/WIN_20230324_22_12_35_Pro.mp4">
+<iframe height=498 width=510 src="../_data/WIN_20230324_22_12_35_Pro.mp4">
 
-
-
+ 
 ## YOLOLandmark: end-to-end face and FLD
 
 端到端的人脸关键点检测
 
-<iframe height=498 width=510 src="_data/WIN_20230324_22_12_35_Pro.mp4">
+<iframe height=498 width=510 src="../_data/WIN_20230324_22_12_35_Pro.mp4">
 
 ## YOLODDD: end-to-end face and DDD
 
 端到端的司机疲劳检测
 
-<iframe height=498 width=510 src="_data/WIN_20230324_22_12_35_Pro.mp4">
+<iframe height=498 width=510 src="../_data/WIN_20230324_22_12_35_Pro.mp4">
 
 
 
 
 ```HTML
 <video width="320" height="240" controls>
-    <source src="_data/WIN_20230324_22_12_35_Pro.mp4" type="video/mp4">
+    <source src="../_data/WIN_20230324_22_12_35_Pro.mp4" type="video/mp4">
 </video>
 ```
 
 或者
 
 ```HTML
-<video src="_data/WIN_20230324_22_12_35_Pro.mp4" controls="controls" width="500" height="300"></video>
+<video src="../_data/WIN_20230324_22_12_35_Pro.mp4" controls="controls" width="500" height="300"></video>
 ```
 
 当然，除了`.mp4`它还支持其他的格式，但是对于不同的浏览器支持的格式不一样，见下表：
@@ -62,7 +61,7 @@ video 元素允许多个 source 元素。source 元素可以链接不同的视�
 
 2. <source src="movie.ogg" type="video/ogg">
 
-3. <source src="_data/WIN_20230324_22_12_35_Pro.mp4" type="video/mp4">
+3. <source src="../_data/WIN_20230324_22_12_35_Pro.mp4" type="video/mp4">
 
 4. 您的浏览器不支持此种视频格式。
 
@@ -90,18 +89,18 @@ src:要播放视频的url
 
 ```HTML
 <video width="720" height="303" controls> #或者：<video width:60% height:auto controls>
-<source src="_data/WIN_20230324_22_12_35_Pro.mp4" type="video/mp4">
+<source src="../_data/WIN_20230324_22_12_35_Pro.mp4" type="video/mp4">
 </video>
 ```
 
 <video width="720" height="303" controls>
-<source src="_data/WIN_20230324_22_12_35_Pro.mp4" type="video/mp4">
+<source src="../_data/WIN_20230324_22_12_35_Pro.mp4" type="video/mp4">
 </video>
 
 第二种：
 
 ```HTML
-<video src="_data/WIN_20230324_22_12_35_Pro.mp4" controls="controls" width:100% height:auto></video>
+<video src="../_data/WIN_20230324_22_12_35_Pro.mp4" controls="controls" width:100% height:auto></video>
 ```
 
-<video src="_data/WIN_20230324_22_12_35_Pro.mp4" controls="controls" width="720" height="405"></video>
+<video src="../_data/WIN_20230324_22_12_35_Pro.mp4" controls="controls" width="720" height="405"></video>
