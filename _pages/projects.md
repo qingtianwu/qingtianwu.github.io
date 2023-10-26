@@ -16,7 +16,9 @@ ing face detection, facial landmark detection (FLD), and head pose estimation (H
 ## Jointly Detecting Face and Facial Landmark from Cheap Operations and Driver Drowsiness Detection
 Driver drowsiness detection (DDD) is a critical area of research with significant implications for public safety, especially in transportation [1] and healthcare sectors. Realtime DDD can provide timely warnings to drivers, thereby reducing the risk of accidents. Various approaches have been developed for driver drowsiness detection, including physiological measures, behavioral measures, and visual solutions. Detecting driver drowsiness in real-time is crucial for reducing the risk of road accidents and fatalities. However, current facial landmark-based methods can be hindered by various conditions, including driving at night, eye closures, and extreme head poses. To address these challenges, we propose a facial landmark-based approach using a YOLO-based network called YOLOLandmark, which can simultaneously detect faces and their dense (68) landmarks while analyzing the state of drowsiness using extracted eye and mouth information. Here's a video to share:
 
+<iframe src="026n3.jpg" width="560" height="300"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+![GIF](026n3.jpg)
 
 ## Intelligent human-machine interaction system
 
