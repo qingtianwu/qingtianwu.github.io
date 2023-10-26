@@ -1,16 +1,18 @@
 ---
 layout: archive
-title: "Projects"
 permalink: /projects/
+title: "Projects"
 author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Locations of key files/directories
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Personal Introduction
+======
+I am a soon-to-be doctoral graduate from [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), actively seeking a faculty position at a university or higher education institution. My research expertise lies in the fields:
+* Computer Vision: object/anomaly/keypoint detection, industrial inspection.
+* Intelligent Systems: human-machine interaction, avatar technologies, and intelligent robotics.
