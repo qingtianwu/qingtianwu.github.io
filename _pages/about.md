@@ -21,8 +21,8 @@ I am very fortunate to be supervised by [Prof. Liming Zhang](https://www.fst.um.
 
 
 You can find my CV here: 
-* [Curriculum Vitae English](../files/resume_wqt2.pdf).
-* [Curriculum Vitae 中文版](../files/中文简历_光明Lab.pdf).
+* [Curriculum Vitae English](../files/resume_wqt2.pdf)
+* [Curriculum Vitae 中文版](../files/中文简历_光明Lab.pdf)
 
 [Email](mailto:qt.wu@outlook.com) / [Github](https://github.com/qingtianwu) / [CSDN](https://blog.csdn.net/wqthaha?type=blog)
 
