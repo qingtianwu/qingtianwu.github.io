@@ -20,6 +20,9 @@ Driver drowsiness detection (DDD) is a critical area of research with significan
 
 ![GIF](026n3.jpg)
 
+<img src="026n3.jpg" width="100" height="100" alt="AltText" />
+
+
 ## Intelligent human-machine interaction system
 
 This system combines voice recognition as an entry point to perform various operations, including opening applications, controlling devices, and providing information. The development of this system requires in-depth expertise in voice recognition, natural language processing, internet connectivity, and human-machine interaction technologies. Additionally, it's important to ensure the system's scalability for easy integration of more functionalities and applications in the future. The system should also be adaptable to accommodate different user needs and allow for personalized settings and configurations. Here's a video to share:
