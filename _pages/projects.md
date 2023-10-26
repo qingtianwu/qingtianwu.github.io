@@ -8,8 +8,7 @@ author_profile: true
 ## Face Attribute Detection and Tracking 
 Face Attribute Detection and Tracking focuses on recognizing and monitoring various attributes associated with human faces in images and videos. This process involves identifying and tracking facial features, expressions, and characteristics, enabling a deeper understanding of the subjects within the visual content. It is a crucial component of computer vision and artificial intelligence systems, as it provides valuable insights into the characteristics and behaviors of individuals in images and videos, enabling numerous practical applications across different industries.
 Here's a video to share:
-
-<iframe src="//player.bilibili.com/player.html?aid=790133335&bvid=BV1xy4y1w7nY&cid=1312248844&p=1" width="560" height="300"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=407628299&bvid=BV1bG41117ud&cid=1312266488&p=1"  width="560" height="420"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## Real-Time Multitask Learning System for Joint  Detection of Face, Facial Landmark  and Head Pose
 The rapid advancement of deep learning techniques has revolutionized the processing methods of various computer vision tasks, such as facial analysis, includ-
