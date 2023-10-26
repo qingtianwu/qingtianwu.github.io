@@ -15,18 +15,6 @@ redirect_from:
 
 <video src="../_data/WIN_20230324_22_12_35_Pro.mp4" controls="controls" width="500" height="300"></video>
 
-
-new videos
-
-```HTML
-<video width="320" height="240" controls>
-    <source src="../_data/WIN_20230324_22_12_35_Pro.mp4" type="video/mp4">
-</video>
-```
-<!-- 
-
-<iframe height=498 width=510 src="../_data/WIN_20230324_22_12_35_Pro.mp4">
-
  
 ## YOLOLandmark: end-to-end face and FLD
 
