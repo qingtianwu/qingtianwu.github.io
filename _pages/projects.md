@@ -8,25 +8,39 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## 一个智能人机交互系统
+
+该智能人机交互系统可实现语音指令的控制，包括对机器人的控制等．
+
+<iframe height=498 width=510 src="_data/WIN_20230324_22_12_35_Pro.mp4">
 
 
-不论你是用的是什么博客系统，WP也好，Typecho也罢，甚至是静态博客，就像我的博客，绕不开的是两种书写语言，一种称之为富文本，一种叫做Markdown。我的博客就是用Markdown写的。
 
-Markdown有很多好处，也有很多坏处，比如说居中，Markdown本身没有这个功能。再比如说视频，Markdown也不具有插入视频的功能。
+## YOLOLandmark: end-to-end face and FLD
 
-值得庆幸的是Markdown支持HTML的标签，在HTML中我们可以用`<video>`标签插入视频，在Markdown中，我们同样可以使用`<video>`标签插入视频，具体格式如下：
+端到端的人脸关键点检测
+
+<iframe height=498 width=510 src="_data/WIN_20230324_22_12_35_Pro.mp4">
+
+## YOLODDD: end-to-end face and DDD
+
+端到端的司机疲劳检测
+
+<iframe height=498 width=510 src="_data/WIN_20230324_22_12_35_Pro.mp4">
+
+
+
 
 ```HTML
 <video width="320" height="240" controls>
-    <source src="movie.mp4" type="video/mp4">
+    <source src="_data/WIN_20230324_22_12_35_Pro.mp4" type="video/mp4">
 </video>
 ```
 
 或者
 
 ```HTML
-<video src="movie.mp4.mp4" controls="controls" width="500" height="300"></video>
+<video src="_data/WIN_20230324_22_12_35_Pro.mp4" controls="controls" width="500" height="300"></video>
 ```
 
 当然，除了`.mp4`它还支持其他的格式，但是对于不同的浏览器支持的格式不一样，见下表：
@@ -38,7 +52,6 @@ Markdown有很多好处，也有很多坏处，比如说居中，Markdown本身�
 <tr><td>WebM</td><td>No</td><td>4.0+</td><td>10.6+</td><td>6.0+</td><td>No</td></tr>
 </table>
 
-当然还有编码等限制，这里就不再介绍，感兴趣的小伙伴可以百度上学习一下。
 
 video 元素允许多个 source 元素。source 元素可以链接不同的视频文件。浏览器将使用第一个可识别的格式，这样我们只要多准备几个不同格式的视频就可以了。
 
@@ -49,7 +62,7 @@ video 元素允许多个 source 元素。source 元素可以链接不同的视�
 
 2. <source src="movie.ogg" type="video/ogg">
 
-3. <source src="movie.mp4" type="video/mp4">
+3. <source src="_data/WIN_20230324_22_12_35_Pro.mp4" type="video/mp4">
 
 4. 您的浏览器不支持此种视频格式。
 
@@ -77,12 +90,12 @@ src:要播放视频的url
 
 ```HTML
 <video width="720" height="303" controls> #或者：<video width:60% height:auto controls>
-<source src="https://movie.cy798.cn/%E9%BB%91%E8%B1%B9.Black.Panther.2018.BD720P.X264.AAC.English.CHS-ENG.mp4" type="video/mp4">
+<source src="_data/WIN_20230324_22_12_35_Pro.mp4" type="video/mp4">
 </video>
 ```
 
 <video width="720" height="303" controls>
-<source src="https://movie.cy798.cn/%E9%BB%91%E8%B1%B9.Black.Panther.2018.BD720P.X264.AAC.English.CHS-ENG.mp4" type="video/mp4">
+<source src="_data/WIN_20230324_22_12_35_Pro.mp4" type="video/mp4">
 </video>
 
 第二种：
