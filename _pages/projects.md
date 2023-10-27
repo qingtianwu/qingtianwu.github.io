@@ -14,8 +14,6 @@ Here's a video to share:
 The rapid advancement of deep learning techniques has revolutionized the processing methods of various computer vision tasks, such as facial analysis, includ-
 ing face detection, facial landmark detection (FLD), and head pose estimation (HPE) methods. This project shows the integration of these tasks, particularly when addressing the complexities posed by large-angle face poses. The primary contribution is the proposal of a real-time multitask detection system capable of simultaneously performing joint detection of faces, facial landmarks, and head poses. This system builds upon the widely adopted YOLOv8 detection framework. Here's a video to share:
 
-![GIF](https://github.com/qingtianwu/qingtianwu.github.io/blob/master/_data/headpose.gif)
-
 <iframe src="//player.bilibili.com/player.html?aid=790133335&bvid=BV1xy4y1w7nY&cid=1312248844&p=1" width="560" height="280"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## Driver Drowsiness Detection based FLD
