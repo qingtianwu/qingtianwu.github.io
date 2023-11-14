@@ -23,7 +23,7 @@ You can find my CV here: [Curriculum Vitae English](../files/resume_wqt2.pdf) / 
 
 Education
 ------
-* 08/2020-12/2023, Ph.D., Computer Science, University of Macau
+* 08/2020-present, Ph.D., Computer Science, University of Macau
 * 09/2014-06/2017, M.S., Computer Science, University of Chinese Academy of Sciences
 * 09/2010-06/2014, B.Eng., Information Engineering, Shenzhen University
 
