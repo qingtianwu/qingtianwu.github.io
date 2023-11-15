@@ -23,12 +23,11 @@ Journal Papers
 
 Preprint Journal Papers
 ------
+* **Qingtian Wu**, Hanzi Wang, Jiajian Zhang, and Liming Zhang.YOLOLandmark: an End-to-End Deep Network for Real-time Face and Its Dense Facial Landmark Detection. IEEE Transactions on Industrial Informatics (IF:12.3, JCR Q1), In Round 3 Review. (First Author).
+
+* **Qingtian Wu**, Nannan Li, Liming Zhang and Fei Richard Yu.Driver Drowsiness Detection Based on Joint Human Face and Facial Landmark Localization with Cheap Operations. IEEEE Transactions on Intelligent Transportation Systems (IF:8.5, JCR Q1), In Round 2 Review. (First Author).
 
 * **Qingtian Wu**, Xiaoming Wang, Lei Dai, Fei Richard Yu and Liming Zhang.[A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose](https://arxiv.org/abs/2309.11773). IEEE Internet of Things Journal (IF:10.6, JCR Q1), Under Review. (First Author).
-
-* **Qingtian Wu**, Hanzi Wang, Jiajian Zhang, and Liming Zhang.YOLOLandmark: an End-to-End Deep Network for Real-time Face and Its Dense Facial Landmark Detection. IEEE Transactions on Industrial Informatics (IF:12.3, JCR Q3), In Round 3 Review. (First Author).
-
-* **Qingtian Wu**, Nannan Li, Liming Zhang and Fei Richard Yu.Driver Drowsiness Detection Based on Joint Human Face and Facial Landmark Localization with Cheap Operations. IEEEE Transactions on Intelligent Transportation Systems (IF:8.5, JCR Q3), In Round 2 Review. (First Author).
 
 * Nannan Li, Kan Huang, **Qingtian Wu**, Yang Zhao and Wenmin Wang. Contrastive Prototype Learning with Pseudo Labeling for Semi-supervised Action Recognition.
  IEEE Transactions on Multimedia, Under Review.
