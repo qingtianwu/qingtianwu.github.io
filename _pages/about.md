@@ -11,12 +11,12 @@ redirect_from:
 
 Personal Introduction
 ======
-I am a soon-to-be doctoral graduate from [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), with research interests in Computer Vision and Intelligent Systems. I also stay updated on the latest developments in AIGC.
+I am a going-to-be doctoral graduate from [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), with research interests in Computer Vision and Intelligent Systems. I also stay updated on the latest developments in AIGC.
 
 I am very fortunate to be supervised by [Prof. Liming Zhang](https://www.fst.um.edu.mo/people/lmzhang/) from University of Macau. I was supervised by [Prof. Zhou Yimin](https://people.ucas.ac.cn/~zym) and [Prof. Wu Xinyu](https://people.ucas.ac.cn/~wuxinyu)  from [Shenzhen Institutes of Advanced Technology (SIAT)](https://www.siat.ac.cn/), Chinese Academy of Science (CAS). I also have an internship at Guangming Laboratory,  supervised by [Prof. Fei Richard Yu](https://csse.szu.edu.cn/pages/user/index?id=1199). As near the doctoral completion, I am seeking a career in academia.
 
 
-You can find my CV here: [Curriculum Vitae English](../files/resume_wqt2.pdf) / [Curriculum Vitae 中文版](../files/中文简历_光明Lab.pdf)
+You can find my CV here: [Curriculum Vitae English](../files/resume_wqt2.pdf)
 
 [Email](mailto:qt.wu@outlook.com) / [Github](https://github.com/qingtianwu) / [CSDN](https://blog.csdn.net/wqthaha?type=blog)
 
