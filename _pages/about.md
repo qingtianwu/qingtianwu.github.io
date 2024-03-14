@@ -11,7 +11,7 @@ redirect_from:
 
 Personal Introduction
 ======
-I am a going-to-be doctoral graduate from [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), with research interests in Computer Vision and Intelligent Systems. I also stay updated on the latest developments in AIGC.
+Currently, I got my doctoral graduate from [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), with research interests in Computer Vision and Intelligent Systems. I also stay updated on the latest developments in AIGC.
 
 I am very fortunate to be supervised by [Prof. Liming Zhang](https://www.fst.um.edu.mo/people/lmzhang/) from University of Macau. I was supervised by [Prof. Zhou Yimin](https://people.ucas.ac.cn/~zym) and [Prof. Wu Xinyu](https://people.ucas.ac.cn/~wuxinyu)  from [Shenzhen Institutes of Advanced Technology (SIAT)](https://www.siat.ac.cn/), Chinese Academy of Science (CAS). I also have an internship at Guangming Laboratory,  supervised by [Prof. Fei Richard Yu](https://csse.szu.edu.cn/pages/user/index?id=1199). As near the doctoral completion, I am seeking a career in academia.
 
@@ -23,7 +23,7 @@ You can find my CV here: [Curriculum Vitae English](../files/resume_wqt2.pdf)
 
 Education
 ------
-* 08/2020-present, Ph.D., Computer Science, University of Macau
+* 08/2020-01/2024, Ph.D., Computer Science, University of Macau
 * 09/2014-06/2017, M.S., Computer Science, University of Chinese Academy of Sciences
 * 09/2010-06/2014, B.Eng., Information Engineering, Shenzhen University
 
