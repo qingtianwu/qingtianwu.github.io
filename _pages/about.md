@@ -11,9 +11,9 @@ redirect_from:
 
 Personal Introduction
 ======
-Currently, I got my doctoral degree from [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), with research interests in Computer Vision and Intelligent Systems. I also stay updated on the latest developments in AIGC.
+Currently, I am a Lecturer in the School of Artificial Intelligence, Shenzhen Polytechnic University. In April 2024, I got my doctoral degree from [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), with research interests in Computer Vision and Intelligent Systems. I also stay updated on the latest developments in Stable Diffusion and AIGC.
 
-I am very fortunate to be supervised by [Prof. Liming Zhang](https://www.fst.um.edu.mo/people/lmzhang/) from University of Macau. I was supervised by [Prof. Zhou Yimin](https://people.ucas.ac.cn/~zym) and [Prof. Wu Xinyu](https://people.ucas.ac.cn/~wuxinyu)  from [Shenzhen Institutes of Advanced Technology (SIAT)](https://www.siat.ac.cn/), Chinese Academy of Science (CAS). I also have an internship at Guangming Laboratory,  supervised by [Prof. Fei Richard Yu](https://csse.szu.edu.cn/pages/user/index?id=1199). As near the doctoral completion, I am seeking a career in academia.
+I am very fortunate to be supervised by [Prof. Liming Zhang](https://www.fst.um.edu.mo/people/lmzhang/) from University of Macau. I was supervised by [Prof. Zhou Yimin](https://people.ucas.ac.cn/~zym) and [Prof. Wu Xinyu](https://people.ucas.ac.cn/~wuxinyu)  from [Shenzhen Institutes of Advanced Technology (SIAT)](https://www.siat.ac.cn/), Chinese Academy of Science (CAS). I also have an internship at Guangming Laboratory,  supervised by [Prof. Fei Richard Yu](https://csse.szu.edu.cn/pages/user/index?id=1199).  
 
 
 You can find my CV here: [Curriculum Vitae English](../files/resume_wqt2.pdf)
@@ -23,12 +23,14 @@ You can find my CV here: [Curriculum Vitae English](../files/resume_wqt2.pdf)
 
 Education
 ------
-* 08/2020-01/2024, Ph.D., Computer Science, University of Macau
+* 08/2020-04/2024, Ph.D., Computer Science, University of Macau
 * 09/2014-06/2017, M.S., Computer Science, University of Chinese Academy of Sciences
 * 09/2010-06/2014, B.Eng., Information Engineering, Shenzhen University
 
 Selected Publications
 ------
+* **Qingtian Wu**, Nannan Li, Liming Zhang and Fei Yu. [Driver Drowsiness Detection Based on Joint Human Face and Facial Landmark Localization with Cheap Operations](https://ieeexplore.ieee.org/abstract/document/10124029). Accepted in IEEE Transactions on Intelligent Transportation Systems  (IF: 7.9, JCR: Q1), 2024. <u>(First Author)</u>
+
 * **Qingtian Wu**, Yu Zhang, and Liming Zhang. [Parallel Self-Attention and Spatial-Attention Fusion for Human Pose Estimation and Running Movement Recognition](https://ieeexplore.ieee.org/abstract/document/10124029). IEEE Transactions on Cognitive and Developmental Systems (IF: 5.0, JCR: Q2), 2023. <u>(First Author)</u>
 
 
